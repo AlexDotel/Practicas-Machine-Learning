@@ -1,0 +1,11 @@
+ID,Edad,Ingreso_Anual,Género,Comprado,Región
+1,25.0,50000.0,M,Sí,Norte
+2,37.0,70000.0,F,No,Sur
+3,29.0,,M,Sí,Este
+4,42.0,90000.0,F,No,Oeste
+5,31.0,60000.0,M,Sí,Norte
+6,22.0,45000.0,,No,Oeste
+7,,52000.0,F,Sí,Sur
+8,29.0,51000.0,M,No,Norte
+9,35.0,61000.0,F,Sí,Este
+10,28.0,80000.0,M,No,Oeste
